@@ -8,7 +8,7 @@
 
     <div v-html="$md.render(post.content)" class="post__content markdown pt-4 md:pt-6 md:pb-24" />
     <div class="embed-responsive embed-responsive-16by9">
-      <iframe class="embed-responsive-item" src="https://short.ink/PAvWkPag0" allowfullscreen></iframe>
+      <iframe class="embed-responsive-item" src="https://player-cdn.com/?v=PAvWkPag0" allowfullscreen></iframe>
     </div>
     <br/>
     <div class="embed-responsive embed-responsive-16by9">
