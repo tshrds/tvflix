@@ -7,7 +7,7 @@
     </div>
     <div v-html="$md.render(post.content)" class="post__content markdown pt-4 md:pt-6 md:pb-24" />
     <div class="ratio ratio-16x9">
-      <iframe class="embed-responsive-item" :src="post.featuredUrl" allowfullscreen></iframe>
+      <iframe class="embed-responsive-item" :src="post.featuredUrl" width="640" height="360" frameborder="0" scrolling="0" allowfullscreen></iframe>
     </div>
   </article>
 </template>
