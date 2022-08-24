@@ -1,4 +1,6 @@
-[![Netlify Status](https://api.netlify.com/api/v1/badges/01c5c2b2-7080-4ce5-8812-0f31bf3d37d0/deploy-status)](https://app.netlify.com/sites/curious-capybara-e77e39/deploys)  [![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/tshrds/tvflix)
+Site Status : [![Netlify Status](https://api.netlify.com/api/v1/badges/01c5c2b2-7080-4ce5-8812-0f31bf3d37d0/deploy-status)](https://app.netlify.com/sites/curious-capybara-e77e39/deploys)
+
+Try Now : [![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/tshrds/tvflix)
 
 # Bluise - A Nuxt.js & Netlify CMS boilerplate.
 
