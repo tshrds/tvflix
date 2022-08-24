@@ -25,6 +25,7 @@ import { MetaInfo } from 'vue-meta';
   head(): MetaInfo {
     return {
       title: this.post.title,
+      featuredUrl: this.post.featuredUrl,
       meta: [
         {
           hid: 'description',
