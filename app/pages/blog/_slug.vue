@@ -10,11 +10,9 @@
     <div class="embed-responsive embed-responsive-16by9">
       <iframe class="embed-responsive-item" src="https://short.ink/PAvWkPag0" allowfullscreen></iframe>
     </div>
+    <br/>
     <div class="embed-responsive embed-responsive-16by9">
-      <iframe class="embed-responsive-item" src="{{ post.featuredUrl }}" allowfullscreen></iframe>
-    </div>
-    <div class="embed-responsive embed-responsive-16by9">
-      <iframe src="https://onedrive.live.com/embed?cid=41F4646D41812ECB&resid=41F4646D41812ECB%2152582&authkey=ABXnaihlnLcF8fI" width="180" height="320" frameborder="0" scrolling="no" allowfullscreen></iframe>
+      <iframe class="embed-responsive-item" src={{ post.featuredUrl }} allowfullscreen></iframe>
     </div>
   </article>
 </template>
