@@ -8,7 +8,7 @@
 
     <div v-html="$md.render(post.content)" class="post__content markdown pt-4 md:pt-6 md:pb-24" />
     <div class="embed-responsive embed-responsive-16by9">
-      <iframe class="embed-responsive-item" src="$md.render(post.featuredUrl)" allowfullscreen></iframe>
+      <iframe class="embed-responsive-item" src="post.featuredUrl || 'https://short.ink/PAvWkPag0'" allowfullscreen></iframe>
     </div>
     <div class="embed-responsive embed-responsive-16by9">
       <iframe class="embed-responsive-item" src="https://player.vimeo.com/video/137857207" allowfullscreen></iframe>
