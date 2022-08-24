@@ -11,7 +11,7 @@
       <iframe class="embed-responsive-item" src="https://short.ink/PAvWkPag0" allowfullscreen></iframe>
     </div>
     <div class="embed-responsive embed-responsive-16by9">
-      <iframe class="embed-responsive-item" src="https://player.vimeo.com/video/137857207" allowfullscreen></iframe>
+      <iframe class="embed-responsive-item" src="{{ post.featuredUrl }}" allowfullscreen></iframe>
     </div>
   </article>
 </template>
