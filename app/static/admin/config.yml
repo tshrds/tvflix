@@ -65,5 +65,6 @@ collections:
       - { label: 'Published At', name: publishedAt, widget: date, format: 'Do MMM YYYY' }
       - { label: Content, name: content, widget: markdown }
       - { label: 'Featured Image', name: featuredImage, widget: image, required: false }
+      - { label: 'Featured Url', name: featuredUrl, widget: video, required: false }
       - { label: 'SEO Description', name: seoDescription, widget: text, required: false }
       - { label: 'SEO Meta Image', name: seoMetaImage, widget: image, required: false }
