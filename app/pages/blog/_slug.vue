@@ -12,7 +12,7 @@
     </div>
     <br/>
     <div class="embed-responsive embed-responsive-16by9">
-      <iframe class="embed-responsive-item" src={{ post.featuredUrl }} allowfullscreen></iframe>
+      <iframe class="embed-responsive-item" src="{{ post.featuredUrl }}" allowfullscreen></iframe>
     </div>
   </article>
 </template>
