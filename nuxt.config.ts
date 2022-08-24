@@ -74,7 +74,7 @@ const nuxtConfig: Configuration = {
   /*
    ** Nuxt.js modules
    */
-  modules: ['@nuxtjs/pwa', '@nuxtjs/style-resources', '@nuxtjs/markdownit', 'mdbvue/nuxt'],
+  modules: ['@nuxtjs/pwa', '@nuxtjs/style-resources', '@nuxtjs/markdownit'],
 
 
   markdownit: {
@@ -90,13 +90,6 @@ const nuxtConfig: Configuration = {
 
     // Enable some language-neutral replacement + quotes beautification
     typographer: true,
-  },
-
-  mdbvue: {
-    icons: false, // FA5
-    roboto: false, // font Roboto
-    css: false, // MDB CSS
-    bootstrap: false // Bootstrap CSS
   },
 
   workbox: {
