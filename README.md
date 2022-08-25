@@ -2,7 +2,7 @@ Site Status : [![Netlify Status](https://api.netlify.com/api/v1/badges/01c5c2b2-
 
 Try Now : [![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/tshrds/tvflix)
 
-# Bluise - A Nuxt.js & Netlify CMS boilerplate.
+# Truewanderer - A Nuxt.js & Netlify CMS boilerplate.
 
 I wanted to explore Netlify CMS & Tailwind CSS, ended up creating this boilerplate.
 
