@@ -56,7 +56,7 @@ export default class Pagination extends Vue {
 
   @Prop({ required: true, type: Number }) readonly totalPages!: number;
 
-  @Prop({ default: 3, type: Number }) readonly max!: number;
+  @Prop({ default: 10, type: Number }) readonly max!: number;
 
   get paginationMax(): number {
     const max = this.totalPages < this.max ? this.totalPages : this.max;
